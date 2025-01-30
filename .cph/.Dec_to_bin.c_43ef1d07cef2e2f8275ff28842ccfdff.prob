@@ -1,0 +1,1 @@
+{"name":"Local: Dec_to_bin","url":"f:\\c\\Lab-task-02\\Dec_to_bin.c","tests":[{"id":1738243245629,"input":"10","output":"1010"},{"id":1738243508122,"input":"20","output":"10100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\c\\Lab-task-02\\Dec_to_bin.c","group":"local","local":true}

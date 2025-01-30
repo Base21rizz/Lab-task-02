@@ -1,0 +1,1 @@
+{"name":"Local: Triangle_validity","url":"f:\\c\\Lab-task-02\\Triangle_validity.c","tests":[{"id":1738249269424,"input":"3 4 5","output":"Valid Triangle"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\c\\Lab-task-02\\Triangle_validity.c","group":"local","local":true}
