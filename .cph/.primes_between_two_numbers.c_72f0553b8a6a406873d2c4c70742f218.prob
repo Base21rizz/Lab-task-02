@@ -1,0 +1,1 @@
+{"name":"Local: primes_between_two_numbers","url":"f:\\c\\Lab-task-02\\primes_between_two_numbers.c","tests":[{"id":1738226940254,"input":"10 20","output":"11 13 17 19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\c\\Lab-task-02\\primes_between_two_numbers.c","group":"local","local":true}
